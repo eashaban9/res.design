@@ -116,10 +116,10 @@
       padding: 16px;
     }
     .navigation-nav {
-      display: none;
+      display: flex;
     }
     .navigation-burger-menu {
-      display: flex;
+      display: none;
     }
   
     .home-text13 {
